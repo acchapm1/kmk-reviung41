@@ -13,9 +13,18 @@ Retailers (USA)
 [Boardsource](https://boardsource.xyz/store/5f2ef1b52bf5e8714a60f613)  
 
 Extensions enabled by default  
-- [Layers](/docs/layers.md) Need more keys than switches? Use layers.
-- [RGB](/docs/rgb.md) Light it up
-- [ModTap](/docs/modtap.md) Allows mod keys to act as different keys when tapped.
+- [Layers](http://kmkfw.io/docs/layers) Need more keys than switches? Use layers.
+- [ModTap](http://kmkfw.io/docs/modtap) Allows mod keys to act as different keys when tapped.
+- [CapsWord](http://kmkfw.io/docs/capsword) Functions similar to caps lock but will deactivate automatically when its encounters a key that breaks the word or after inactivity timeout
+- [Combos](http://kmkfw.io/docs/combos) Allow you to assign special functionality to combinations of key presses
+- [OneShot](http://kmkfw.io/docs/oneshot) Enable you to have keys that keep staying pressed for a certain time or until another key is pressed and released
+
 
 Common Extensions
 - [Power](/docs/power.md) Powersaving features for battery life
+
+# Keymap graphic
+![Keymap](img/Reviung41_Keymp_v2.png)
+
+# Keymap python layout
+![CodeKeymap](img/Reviung41_Keymp.png)
