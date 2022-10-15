@@ -1,11 +1,11 @@
 # Reviung41
 
+The Reviung41 is a 41 key keyboard designed by gtips, it is a slightly larger version of the popular Reviung 39. These "split non-split" keyboards offer a lot of features split keyboards have in terms of comfort and ergonomics but do so in a single-piece package. Many people consider keyboards in this style easier to travel with since you don't have to manage two halves and there is of course no need for a TRRS cable. This board sits somewhere between and Atreus and Corne, and it is extremely comfortable to use.
+
 ![Reviung41](img/top.png)
 ![Reviung41_Layers](img/layers.png)
 
-The Reviung41 is a 41 key keyboard designed by gtips, it is a slightly larger version of the popular Reviung 39. These "split non-split" keyboards offer a lot of features split keyboards have in terms of comfort and ergonomics but do so in a single-piece package. Many people consider keyboards in this style easier to travel with since you don't have to manage two halves and there is of course no need for a TRRS cable. This board sits somewhere between and Atreus and Corne, and it is extremely comfortable to use.
-
-kb.py is designed to work with the Boardsource [Blok](https://peg.software/docs/blok) 
+**kb.py** is designed to work with the Boardsource [Blok](https://peg.software/docs/blok) 
 ![BlokPins](img/BlokPins.png)
 
 Hardware Availability: [PCB & Case Data](https://github.com/gtips/reviung/tree/master/reviung41)
